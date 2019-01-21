@@ -4,6 +4,6 @@ iOS 12.1.2 (16C101)
 Model: iPhone 5s 
 
 1. Кнопка назад прячется за полупрозрачной плашкой "Нет интернета", хотя она "кликабельна"
-<https://github.com/li-ieho/QA-Engineer-Mobile-Test/blob/pizza_half_test/Screen%20Shot%202019-01-21%20at%2022.49.21.png>
+https://github.com/li-ieho/QA-Engineer-Mobile-Test/blob/pizza_half_test/Screen%20Shot%202019-01-21%20at%2022.49.21.png
 2. При переключении языка телефона на Английский появляется надпись "Back" в заголовке навигации
-<https://github.com/li-ieho/QA-Engineer-Mobile-Test/blob/pizza_half_test/Screen%20Shot%202019-01-21%20at%2022.53.17.png>
+https://github.com/li-ieho/QA-Engineer-Mobile-Test/blob/pizza_half_test/Screen%20Shot%202019-01-21%20at%2022.53.17.png
